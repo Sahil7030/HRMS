@@ -1,1 +1,7 @@
 Onbording Of Employee
+
+EMP Name : Krishika
+age : 22
+DOJ : 26-10-2026
+salary : 12 LPA
+Department : IT
